@@ -1,0 +1,2 @@
+Os testes que necessitavam e arquivos de dados foram comprimidos em .zip para facilitar visualização, mas compreendem serem misturados em meio a outros arquivos, já que procuram .json fixos no código
+No teste 4, criei um banco de dados em .json que guarda em uma string os valores de cada filial, prevendo que, provavelmente, serão variáveis, sendo assim, não há necessidade de atualiza-los no código, ora que estão em um banco de dados próprio
